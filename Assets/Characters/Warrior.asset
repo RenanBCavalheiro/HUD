@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e485a10621b4c6842b46d3597e9ea14b, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  startLife: 30
+  startMana: 10
+  strenght: 10
+  magic: 5
+  agillity: 5
+  vitality: 1
+  baseRange: 2
+  Level: 0
+  Exp: 0
+  nextLevel: 0
+  xpFirstLevel: 100
+  xpNextLevel: 0
+  difficultFactor: 1
+  name: Guerreiro
+  typeCharacter: 0
+  typeClass: 0
